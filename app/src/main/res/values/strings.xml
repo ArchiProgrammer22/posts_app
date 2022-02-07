@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StateApp</string>
+    <string name="title_tag">TITLE</string>
+    <string name="body_tag">BODY</string>
+    <string name="posts_title">Posts</string>
+</resources>
